@@ -1,0 +1,8 @@
+pretrained_models/FireRedASR-AED-L/
+fireredasr/data/__pycache__/
+fireredasr/models/__pycache__/
+fireredasr/models/module/__pycache__/
+fireredasr/tokenizer/__pycache__/
+fireredasr/utils/__pycache__/
+examples/out/
+.idea/
