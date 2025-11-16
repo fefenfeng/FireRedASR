@@ -1,0 +1,9 @@
+name: fireredasr
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+dependencies:
+  - python=3.10
+  - websockets
+prefix: /home/yuhengfeng/.conda/envs/fireredasr

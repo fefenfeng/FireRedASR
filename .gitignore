@@ -1,4 +1,4 @@
-pretrained_models/FireRedASR-AED-L/
+pretrained_models/
 fireredasr/data/__pycache__/
 fireredasr/models/__pycache__/
 fireredasr/models/module/__pycache__/

@@ -62,7 +62,7 @@ Create a Python environment and install dependencies
 ```bash
 $ git clone https://github.com/FireRedTeam/FireRedASR.git
 $ conda create --name fireredasr python=3.10
-$ pip install -r requirements.txt
+$ pip install -r orig_requirements.txt
 ```
 
 Set up Linux PATH and PYTHONPATH
